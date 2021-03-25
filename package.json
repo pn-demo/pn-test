@@ -1,15 +1,15 @@
 {
   "name": "pn-demo-github",
   "version": "1.0.0",
-  "description": "Naksh",
+  "description": "Naksh is baby1 of archana",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "axios": "^0.20.1",
-    "bootstrap": "^3.4.8",
-    "react": "^16.4.3"
+    "bootstrap": "^3.4.18",
+    "react": "^16.4.13"
        
   },
   "devDependencies": {
