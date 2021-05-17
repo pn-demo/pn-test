@@ -15,7 +15,8 @@
     "react-router-dom": "~5.2.0",
     "react-scripts": "4.0.1",
     "react-tooltip": "~4.2.14",
-    "web-vitals": "~0.2.4"
+    "web-vitals": "~0.2.4",
+    "express": "4.17.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "2.0.2",
