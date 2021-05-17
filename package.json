@@ -9,11 +9,10 @@
   "dependencies": {
     "axios": "^0.20.1",
     "bootstrap": "^3.4.2",
-    "react": "^16.4.3",
+    "react": "^17.0.0",
     "react-dom": "^16.4.3",
-    "react-redux": "^5.0.7",
-    "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
+    "express": "4.17.1",
     
   },
   "devDependencies": {
