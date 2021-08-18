@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "@craco/craco": "~6.0.0",
-    "@microsoft/teams-js": "~1.9.0",
+    "@microsoft/teams-js": "~1.2.0",
     "@szhsin/react-menu": "~1.8.0",
-    "@tanem/react-nprogress": "~3.0.55",
+    "@tanem/react-nprogress": "~3.1.55",
     "axios": "~0.21.1",
     "react": "~17.0.1",
     "react-content-loader": "~6.0.1",
